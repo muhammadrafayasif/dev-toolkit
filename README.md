@@ -223,20 +223,20 @@ Thanks goes to these wonderful people:
     <br />💻
   </td>
   <td align="center">
-    <a href="https://github.com/mangopep">
-      <img src="https://avatars.githubusercontent.com/u/226402269?v=4" width="100px;" alt="mangopep"/>
+    <a href="https://github.com/apps/github-actions">
+      <img src="https://avatars.githubusercontent.com/in/15368?v=4" width="100px;" alt="github-actions[bot]"/>
       <br />
-      <sub><b>mangopep</b></sub>
+      <sub><b>github-actions[bot]</b></sub>
     </a>
     <br />💻
   </td>
 </tr><tr>
 
   <td align="center">
-    <a href="https://github.com/apps/github-actions">
-      <img src="https://avatars.githubusercontent.com/in/15368?v=4" width="100px;" alt="github-actions[bot]"/>
+    <a href="https://github.com/mangopep">
+      <img src="https://avatars.githubusercontent.com/u/226402269?v=4" width="100px;" alt="mangopep"/>
       <br />
-      <sub><b>github-actions[bot]</b></sub>
+      <sub><b>mangopep</b></sub>
     </a>
     <br />💻
   </td>
